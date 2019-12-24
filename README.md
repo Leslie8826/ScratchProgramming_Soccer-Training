@@ -1,4 +1,4 @@
-# Soccer-Training
+# Lesson 9: Soccer-Training
 
 ## Author
 Leslie8826
@@ -13,6 +13,7 @@ Hard
        * learn how to implement blocks for the other sprite according to the main sprite
        * learn how to use simple conditional statements
        * learn how to use nested conditional statements
+       * learn how to place the sprite in the same position everytime the game starts
   - Students will get familiar with:
        * key blocks
        * "when clicked" blocks
