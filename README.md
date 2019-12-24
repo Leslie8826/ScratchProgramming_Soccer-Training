@@ -4,23 +4,22 @@
 Leslie8826
 
 ### Difficulty
-Normal
+Hard
 
 ### Objectives: 
   - Students will be able to: 
-       * understand how to implement blocks according to a scenario between 3 sprites
-       * work with 3 sprites at the same time
-       * implement code for these 3 sprites
-       * learn how to implement blocks for a sprite according to the other 2
-       * create a choreography of 3 characters
-       * change the background during the length of the choreography
-       * choose the right blocks and timing so the animation looks credible
+       * understand how to implement blocks according to a scenario
+       * control the main sprite from the keyboard
+       * learn how to implement blocks for the other sprite according to the main sprite
+       * learn how to use simple conditional statements
+       * learn how to use nested conditional statements
   - Students will get familiar with:
-       * "switch to costume" blocks
-       * broadcast block
-       * "when I receive" block
-       * "when clicked" block
-       * wait block
-       * move block
-
+       * key blocks
+       * "when clicked" blocks
+       * forever blocks
+       * if-then blocks
+       * set-rotation-style blocks
+       
 ### Outcome
+https://scratch.mit.edu/projects/355616989 <br>
+The sprite, Jordyn, can be controlled from the keyboard to move on the soccer field with or without the soccer ball in her legs. Also, she can shoot the soccer ball. Follow the instructions in the scratch application.
