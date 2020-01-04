@@ -30,6 +30,6 @@ Hard
        * if-then blocks
        * set-rotation-style blocks
        
-### Outcome
+### Output
 https://scratch.mit.edu/projects/355616989 <br>
 The sprite, Jordyn, can be controlled from the keyboard to move on the soccer field with or without the soccer ball in her legs. Also, she can shoot the soccer ball. Follow the instructions in the scratch application.
